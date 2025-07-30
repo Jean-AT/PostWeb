@@ -100,3 +100,7 @@ body {
   background-color: rgb(77, 123, 168);
   transition: 15ms;
 }
+
+span{
+  color:red;
+} 
