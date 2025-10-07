@@ -49,4 +49,3 @@ This project is intended for learning and demonstration purposes: auth with JWT 
 </p>
 
 ```markdown
-![Login Page](screenshots/login.png)
